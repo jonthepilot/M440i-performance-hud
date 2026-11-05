@@ -1,0 +1,9 @@
+{
+  "proxies": {
+    "de.bmw.infotainment.telematic.oapcontroller.OAPController": "*",
+    "de.bmw.infotainment.hmi.remote.RemoteHmi": "*",
+    "de.bmw.infotainment.hmi.entrypoint.EntryPoint": "*",
+    "de.bmw.infotainment.hmi.entrypoint.EntryPointManager": "*"
+  },
+  "services": {}
+}

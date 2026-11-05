@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "components": [
+    {
+      "id": "jonthepilot_hud",
+      "kind": "app",
+      "path": "apps/jonthepilot_hud",
+      "build": "unit",
+      "title": "M440i HUD Overlay Test",
+      "description": "Experimental static HUD overlay; no vehicle data",
+      "mguHmi": [
+        "ID7"
+      ],
+      "uninstallable": true
+    }
+  ]
+}

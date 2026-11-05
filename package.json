@@ -1,0 +1,25 @@
+{
+  "name": "jonthepilot_hud",
+  "version": "0.1.0",
+  "main": "javascript/runner.js",
+  "mguHmi": [
+    "ID7"
+  ],
+  "oapAppSettings": {
+    "maxDiskUsage": 26214400,
+    "cpuLimit": 50,
+    "memoryThresholdKB": 153600,
+    "priority": "PRIO_MEDIUM",
+    "visibility": "FOREGROUND",
+    "loggingId": "JHUD",
+    "userLoginRequired": false,
+    "backgroundPriority": 150,
+    "someipManifest": "manifest.json"
+  },
+  "dependencies": {
+    "oap-sdk": "24.10.2"
+  },
+  "engines": {
+    "node": ">=8.7.0"
+  }
+}

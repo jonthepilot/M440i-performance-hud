@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "1.3.0",
+  "application": {
+    "uuid": "a79d0992-f3ef-40a0-8c6c-a98c009afc41",
+    "type": "OnlineApp",
+    "name": "jonthepilot_hud",
+    "vendor": "Community Test",
+    "version": "0.1.0",
+    "defaultLanguage": "en_GB",
+    "uiDescriptions": [
+      {
+        "applicationFilePath": "./uiDescriptions/ID7/application.xml",
+        "uiDescriptionFilePath": "./uiDescriptions/ID7/uiDescription.json",
+        "hmi": [
+          "ID7"
+        ]
+      }
+    ],
+    "entryPoints": []
+  }
+}
